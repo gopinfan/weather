@@ -6,7 +6,7 @@
 ## Installing
 
 ```shell
-$ composer require pinfankeji/weather -vvv
+$ composer require gopinfan/weather -vvv
 ```
 
 ## Usage
